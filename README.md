@@ -1,7 +1,4 @@
-# contents_list
-仓库目录
-
-## 目录
+## repositories 目录
 ---
 ### 一、AIDD
 ----------------
