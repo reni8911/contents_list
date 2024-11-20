@@ -62,6 +62,7 @@
 
 
 ### 三、医学影像
+---
 #### 1. 传统图像算法
 - MR_multiseq_regist：前列腺癌MR多序列配准
   - github：https://github.com/reni8911/MR_multiseq_regist
@@ -78,6 +79,7 @@
 
 
 ### 四、软著
+---
 - MR_DataManager：MR图像管理系统
   - github: https://github.com/reni8911/MR_DataManager
 - UAA_DB：非天然氨基酸数据库
